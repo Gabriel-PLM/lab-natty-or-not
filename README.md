@@ -4,11 +4,11 @@
 
 > Woooow! Look at this 👀
 
-Este repositório reúne dois projetos desenvolvidos com o apoio de Inteligência Artificial Generativa, com o objetivo de explorar seu potencial na criação de conteúdos realistas e relevantes.
+Este repositório apresenta dois projetos desenvolvidos com o uso de Inteligência Artificial Generativa, explorando na prática o potencial dessas tecnologias na criação de conteúdos altamente realistas e envolventes.
 
-Os projetos consistem na produção de um vídeo e um e-book, abordando conceitos, aplicações e impactos da IA Generativa no cenário atual, buscando simular produções autênticas e de alta qualidade.
+A proposta vai além do básico: aqui, a IA é utilizada como ferramenta central para a construção de um vídeo e um e-book, simulando produções profissionais e demonstrando como essas soluções já estão transformando a forma como criamos, aprendemos e desenvolvemos software.
 
-Além de demonstrar o uso prático dessas tecnologias, este trabalho também tem como foco o desenvolvimento de habilidades relacionadas à criatividade, resolução de problemas e aplicação de IA no processo de criação de conteúdo, contribuindo para a construção de um portfólio sólido na área de tecnologia.
+Mais do que um experimento, este projeto representa uma imersão no uso estratégico da IA, combinando criatividade, tecnologia e prática para construir algo próximo do “real” — ou como o desafio propõe: Natty or Not? 🚀
 
 ============================================================
 
