@@ -19,7 +19,7 @@ Um e-book de como usar Inteligência Artificial para aprender programação e co
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa**[Leonardo AI](https://leonardo.ai)** e **[Canva IA](https://www.canva.com/ai)** para criar a arte visual do e-book;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** e **[Canva IA](https://www.canva.com/ai)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
