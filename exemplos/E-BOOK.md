@@ -1,20 +1,24 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# INTELIGÊNCIA ARTIFICIAL GENERATIVA — IA Generativa e Programação
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book apresenta os principais conceitos da Inteligência Artificial Generativa, explicando como essa tecnologia funciona, seus modelos mais utilizados e seus impactos no desenvolvimento de software e na tecnologia moderna.
+O material também aborda como ferramentas de IA podem auxiliar programadores na criação de código, automação de tarefas, aprendizado técnico e desenvolvimento de projetos reais, mesmo para iniciantes.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e ajuda na correção;
-- IA Generativa **[Canva IA](https://www.canva.com/ai)** para criar a arte visual do e-book;
-- Ferramenta **Canva** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para pesquisa, estruturação, revisão textual e desenvolvimento do conteúdo;
+- IA Generativa **[Canva IA](https://www.canva.com/ai)** para design gráfico e composição estética do e-book;
+- Ferramenta **Canva** para edição e montagem final do material.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+O desenvolvimento do e-book começou com pesquisas sobre Inteligência Artificial Generativa, abordando conceitos teóricos, aplicações práticas e impactos da IA na programação.
+Utilizei o ChatGPT para auxiliar na revisão dos conteúdos, organização das ideias e refinamento textual dos capítulos. Para a criação visual e identidade estética do projeto, utilizei o Canva IA. A montagem final do e-book foi realizada no Canva, utilizando recursos de edição e formatação para estruturar o conteúdo de forma clara e acessível.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O projeto resultou em um e-book educativo e visualmente organizado, apresentando de forma prática os fundamentos da Inteligência Artificial Generativa e sua relação com o desenvolvimento de software.
+O material demonstra como a IA pode ser utilizada para otimizar processos criativos, apoiar o aprendizado técnico e auxiliar programadores na construção de soluções mais rápidas e eficientes.
 
 [LINK PARA O E-BOOK AQUI](https://canva.link/exttyzw5ogp6onj)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book permitiu compreender, na prática, como a Inteligência Artificial Generativa pode atuar como ferramenta de apoio à criatividade, produtividade e aprendizado.
+O projeto também reforçou a importância do pensamento crítico e dos fundamentos da programação, mostrando que a IA não substitui o conhecimento humano, mas potencializa a capacidade de criar, aprender e desenvolver soluções tecnológicas de forma mais estratégica.
