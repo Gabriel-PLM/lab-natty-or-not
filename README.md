@@ -25,7 +25,8 @@ O material também demonstra como ferramentas de IA podem auxiliar programadores
 - Ferramenta **Canva** para edição e montagem final do material.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas na prática e teoria, ajuda em estruturar o conteúdo e refinar minhas ideias. Para gerar as imagens e construção estética exclusivas para o e-book, foi usado o "Canva IA" e o "Leonardo AI". Concluindo, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+O desenvolvimento do e-book começou com pesquisas sobre Inteligência Artificial Generativa, abordando conceitos teóricos, aplicações práticas e impactos da IA na programação.
+Utilizei o ChatGPT para auxiliar na revisão dos conteúdos, organização das ideias e refinamento textual dos capítulos. Para a criação visual e identidade estética do projeto, utilizei o Canva IA. A montagem final do e-book foi realizada no Canva, utilizando recursos de edição e formatação para estruturar o conteúdo de forma clara e acessível.
 
 ## 🚀 Resultados
 O projeto resultou na criação de um e-book completo sobre Inteligência Artificial Generativa aplicada à programação, reunindo conceitos fundamentais, exemplos práticos e reflexões sobre o futuro da tecnologia.
