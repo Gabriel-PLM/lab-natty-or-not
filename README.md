@@ -20,9 +20,9 @@ Um e-book educacional que apresenta os fundamentos da Inteligência Artificial G
 O material também demonstra como ferramentas de IA podem auxiliar programadores na criação de código, aprendizado técnico, automação de tarefas e construção de soluções reais, mesmo para iniciantes.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** e **[Canva IA](https://www.canva.com/ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para pesquisa, estruturação, revisão textual e desenvolvimento do conteúdo;
+- IA Generativa **[Canva IA](https://www.canva.com/ai)** para design gráfico e composição estética do e-book;
+- Ferramenta **Canva** para edição e montagem final do material.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas na prática e teoria, ajuda em estruturar o conteúdo e refinar minhas ideias. Para gerar as imagens e construção estética exclusivas para o e-book, foi usado o "Canva IA" e o "Leonardo AI". Concluindo, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
